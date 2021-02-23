@@ -118,6 +118,10 @@ legend {
     color: rgba(201, 205, 208, 1)
 }
 
+#phone::placeholder {
+    text-align: left;
+}
+
 .newsletter p {
     font-size: .95rem;
     padding: 15px 0;
@@ -143,6 +147,10 @@ legend {
     background-color: rgba(239, 241, 241, 1);
     border: none;
     border-radius: 5px;
+}
+
+.user-input textarea::placeholder {
+    color: rgba(201, 205, 208, 1);
 }
 
 form button {
