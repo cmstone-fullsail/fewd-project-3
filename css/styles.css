@@ -9,7 +9,7 @@
     color: rgba(44, 57, 68, 1);
 }
 
-header, .header-top, .header-bottom, form, .user-contact, .newsletter{
+header, .header-top, .header-bottom, form, .user-contact, .newsletter, footer{
     display: flex;
 }
 
@@ -152,4 +152,21 @@ form button {
     background-color: rgba(78, 187, 181, 1);
     border: none;
     border-radius: 5px;
+}
+
+/* ================================= 
+  Footer Styles
+==================================== */
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 15px 0 0;
+}
+
+footer p {
+    font-size: .95rem;
+    font-style: italic;
+    padding: 15px 0;
+    color: rgba(186, 190, 194, 1);
 }
