@@ -9,6 +9,10 @@
     color: rgba(44, 57, 68, 1);
 }
 
+body {
+    background-color: rgba(68, 55, 44, .6);
+}
+
 header, .header-top, .header-bottom, form, .user-contact, .newsletter, footer{
     display: flex;
 }
