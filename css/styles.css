@@ -108,6 +108,7 @@ legend {
     background-color: rgba(239, 241, 241, 1);
     border: none;
     border-radius: 5px;
+    outline: none;
     transition: background-color 1s;
 }
 
@@ -156,6 +157,7 @@ legend {
     background-color: rgba(239, 241, 241, 1);
     border: none;
     border-radius: 5px;
+    outline: none;
     transition: background-color 1s;
 }
 
